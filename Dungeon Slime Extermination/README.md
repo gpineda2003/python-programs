@@ -1,2 +1,2 @@
-# Program Title: Dungeon Slime Extermination
+# Dungeon Slime Extermination
 This was a program I made in highschool.
