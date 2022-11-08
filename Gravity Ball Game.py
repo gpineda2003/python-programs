@@ -1,5 +1,8 @@
+# Controls
+# Click to change whether the ball goes up or down, thats it.
+
 ##########################
-#        ZigZaggah       #
+#       GravityBall      #
 ##########################
 from tkinter import *
 from math import *
